@@ -11,7 +11,7 @@
 
 <br>
 
-② [환경 변수] 대화상자에서 [시스템 변수]의 [새로 만들기]를 클릭한다. 
+② [환경 변수] 대화상자에서 [시스템 변수]의 [새로 만들기]를 클릭한다. <br>
 <img src="./img/img2.png" width="210" height="300" style="margin: 10px 0px;" />
 
 > `[새 시스템 변수]`  <br>
@@ -22,7 +22,7 @@
 
 <br>
 
-③ JDK 설치 폴더인 C:\Program Files\Java\jdk-21.0.4.7-hotspot 폴더에 들어가면, bin 디렉터리가 있다. 
+③ JDK 설치 폴더인 C:\Program Files\Java\jdk-21.0.4.7-hotspot 폴더에 들어가면, bin 디렉터리가 있다. <br>
 <img src="./img/img4.png" width="320" height="130" style="margin: 10px 0px;" /> <br>
 >💡 `bin 폴더`  : 자바 소스 파일을 컴파일해 주는 javac.exe와 자바프로그램을 실행해 주는 java.exe 명령어가 있다. 
 
