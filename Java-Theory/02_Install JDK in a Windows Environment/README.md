@@ -4,7 +4,7 @@
 > 🔩`Java SE (Java Standard Edition)` : Java 표준판이 가져야 할 스펙을 정의한 것  <br>
 > 🔩 `JDK (Java Development Kit)` : Java SE를 구현해서 만든 것. 
 > <br><br>
-> ![alt text](./img/img1.png)
+> <img src="./img/img1.png" width="280" height="40"/>
 > <br><br>
 > 💡 `Oracle JDK`는 `Open JDK`보다 **응답성과 JVM 성능이 상대적으로 뛰어나다.**
 > -  하지만, Open JDK도 성능이 지속적으로 향상되고 있으며, 안정화도 이루어지고 있기 때문에, ***JDK 비용적 측면을 고려한다면, Open JDK를 사용하는 것이 유리하다.*** 
@@ -23,29 +23,29 @@
 
 ### ⚙️ Open JDK 설치  
 https://adoptium.net/temurin/releases/ 에서 **msi 버전**으로 설치한다. 
-![alt text](./img/img2.png)
+<img src="./img/img2.png" width="350" height="110" style="margin: 10px 0px;" />
 
 <br>
 
 ### ⚙️ 윈도우 환경에 설치 방법
 ① 다운로드 한 msi 파일을 클릭하여 jdk를 설치한다. 첫 설정 페이지는 Next를 눌러 넘어간다. 
-![alt text](./img/img3.png)
+<img src="./img/img3.png" width="290" height="200" style="margin: 10px;" />
 
 <br>
 
 ② 라이선스 동의 여부 창에 동의를 체크한 후 Next를 눌러 넘어간다. 
-![alt text](./img/img4.png)
+<img src="./img/img4.png" width="290" height="220" style="margin: 10px; " />
 
 <br>
 
 ③ 현재 설치할 기기에 모든 유저에게 설치할지 hyedi3x 계정(현재 사용 계정)에만 설치할지 결정한다. 
-![alt text](./img/img5.png)
+<img src="./img/img5.png" width="290" height="220" style="margin: 10px;"/>
 > 자바 버전은 맞추는 게 좋기에 all user로 선택한다. 
 
 <br>
 
 ④ JDK 설치 옵션을 커스텀 할 수 있다. 기본 세팅으로 설정하고 설지 Location만 변경 후에 Next를 눌러 넘어간다. 
-![alt text](./img/img6.png)
+<img src="./img/img6.png" width="290" height="220" style="margin: 10px;"/>
 >  Location : C:\Program Files\Java\jdk-21.0.4.7-hotspot\
 > -  `Modify PATH variable` : PATH 환경 변수를 수정하겠다는 기본 옵션 
 > -  `Associate .jar` : 관련 라이브러리 .jar 파일을 설치하겠다는 기본 옵션
@@ -55,7 +55,7 @@ https://adoptium.net/temurin/releases/ 에서 **msi 버전**으로 설치한다.
 <br>
 
 ⑤ Install을 클릭하여 설치를 마무리한다. 
-![alt text](./img/img7.png)
+<img src="./img/img7.png" width="290" height="220" style="margin: 10px;"/>
 
 <br>
 
