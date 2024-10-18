@@ -22,30 +22,30 @@
 ---
 
 ### ⚙️ Open JDK 설치  
-https://adoptium.net/temurin/releases/ 에서 **msi 버전**으로 설치한다. 
+https://adoptium.net/temurin/releases/ 에서 **msi 버전**으로 설치한다.  <br>
 ![alt text](./img/img2.png)
 
 <br>
 
 ### ⚙️ 윈도우 환경에 설치 방법
-① 다운로드 한 msi 파일을 클릭하여 jdk를 설치한다. 첫 설정 페이지는 Next를 눌러 넘어간다. 
-![alt text](./img/img3.png)
+① 다운로드 한 msi 파일을 클릭하여 jdk를 설치한다. 첫 설정 페이지는 Next를 눌러 넘어간다.  <br>
+![alt text](./img/img3.png) <br>
 
 <br>
 
-② 라이선스 동의 여부 창에 동의를 체크한 후 Next를 눌러 넘어간다. 
-![alt text](./img/img4.png)
+② 라이선스 동의 여부 창에 동의를 체크한 후 Next를 눌러 넘어간다.  <br>
+![alt text](./img/img4.png) <br>
 
 <br>
 
-③ 현재 설치할 기기에 모든 유저에게 설치할지 hyedi3x 계정(현재 사용 계정)에만 설치할지 결정한다. 
-![alt text](./img/img5.png)
+③ 현재 설치할 기기에 모든 유저에게 설치할지 hyedi3x 계정(현재 사용 계정)에만 설치할지 결정한다.  <br>
+![alt text](./img/img5.png) <br>
 > 자바 버전은 맞추는 게 좋기에 all user로 선택한다. 
 
 <br>
 
-④ JDK 설치 옵션을 커스텀 할 수 있다. 기본 세팅으로 설정하고 설지 Location만 변경 후에 Next를 눌러 넘어간다. 
-![alt text](./img/img6.png)
+④ JDK 설치 옵션을 커스텀 할 수 있다. 기본 세팅으로 설정하고 설지 Location만 변경 후에 Next를 눌러 넘어간다.  <br>
+![alt text](./img/img6.png) <br>
 >  Location : C:\Program Files\Java\jdk-21.0.4.7-hotspot\
 > -  `Modify PATH variable` : PATH 환경 변수를 수정하겠다는 기본 옵션 
 > -  `Associate .jar` : 관련 라이브러리 .jar 파일을 설치하겠다는 기본 옵션
@@ -54,8 +54,8 @@ https://adoptium.net/temurin/releases/ 에서 **msi 버전**으로 설치한다.
 
 <br>
 
-⑤ Install을 클릭하여 설치를 마무리한다. 
-![alt text](./img/img7.png)
+⑤ Install을 클릭하여 설치를 마무리한다.  <br>
+![alt text](./img/img7.png) <br>
 
 <br>
 
